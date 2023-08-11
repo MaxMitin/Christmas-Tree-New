@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Holiday {
+public interface Holiday {
+    void draw();
 }
